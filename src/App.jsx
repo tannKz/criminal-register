@@ -36,7 +36,7 @@ function App() {
           <div className="box-info">
             <div className="input" style={{ borderBottom: '1px solid white'}}>Nombre de pila (documento): {nombre}</div>
             <div className="input" style={{ borderBottom: '1px solid white'}}>Estatura (en cm): {estatura}</div>
-            <div className="input" style={{ borderBottom: '1px solid white'}}>Peso (en cm): {peso}</div>
+            <div className="input" style={{ borderBottom: '1px solid white'}}>Peso (en kg): {peso}</div>
             <div className="input" style={{ borderBottom: '1px solid white'}}>Ojos: {ojos}</div>
             <div className="input" style={{ borderBottom: '1px solid white'}}>Etnia: {etnia}</div>
             <div className="input" style={{ borderBottom: '1px solid white'}}>Fecha de nacimiento: {nacimiento}</div>
